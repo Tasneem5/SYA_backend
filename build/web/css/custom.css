@@ -1,0 +1,50 @@
+
+.st0{
+	fill:#ED4343;
+}
+
+.st1{
+	fill:#E26060;
+}
+
+.st2{
+	fill:#E28F8F;
+}
+
+.st3{
+	fill:#CC6060;
+}
+
+.st4{
+	fill:#BFBFBF;
+	stroke:#1A1A1A;
+	stroke-width:0.5;
+	stroke-miterlimit:10;
+}
+
+.st5{
+	fill:none;
+	stroke:#000000;
+	stroke-width:0.5;
+	stroke-miterlimit:10;
+}
+
+.st6{
+	fill:none;
+	stroke:#000000;
+	stroke-width:0.5;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	stroke-miterlimit:10;
+}
+
+#XMLID_23_ .st4{
+	fill: none;
+}
+
+#design_2 .fitness_design{
+	fill:#EF8118;
+	stroke:#1C1C1B;
+	stroke-width:2;
+	stroke-miterlimit:10;
+}
